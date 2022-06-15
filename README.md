@@ -20,7 +20,7 @@ Chaque jour, les techniciens viennent récupérer leur véhicule électrique au 
 
 ## Déroulement
 
-1. Discussions avec le Product Owner pour lister les tâches du backlog
+1. Discussions avec le Product Owner pour lister les tâches du backlog (récolte des `user stories`
 2. Priorisation des tâches en fonction du PO
 3. **En interne :** établissement de la complexité avec l’équipe de développement
 4. Assignation des tâches par sprint
