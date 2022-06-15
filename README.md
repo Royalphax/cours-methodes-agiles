@@ -15,4 +15,8 @@
 
 - Tout le monde à une tâche
   - Excepté le PO qui est en relation avec le client constamment
-- Ceux qui se libèreront viendront en renfort aux autres qui ont une tâche de 2 semaines
+- Ceux qui se libèreront viendront en renfort aux autres qui ont une tâche de 2 
+
+## Planning actuel
+
+<img src="https://imgur.com/ozz35LV.png" />
